@@ -18,5 +18,10 @@
   "FirstName": "Tom",
   "LastName": "Nook",
   "CourseName": "Economics 101"
+ },
+ {
+  "FirstName": "Opal",
+  "LastName": "Franke",
+  "CourseName": "Python 101"
  }
 ]
